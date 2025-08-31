@@ -1,5 +1,3 @@
-# mvvm
-
 lib/
 ├── main.dart                 # Main application entry point
 ├── main_development.dart     # Development environment setup

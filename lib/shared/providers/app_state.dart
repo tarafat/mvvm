@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:mvvm/core/base/base_view_model.dart';
 
 class AppState extends BaseViewModel {
-  ThemeMode _themeMode = ThemeMode.system;
+  ThemeMode _themeMode = ThemeMode.dark;
   Locale _locale = const Locale('en');
   bool _isAuthenticated = false;
 
